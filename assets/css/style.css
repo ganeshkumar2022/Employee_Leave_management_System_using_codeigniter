@@ -1,0 +1,13 @@
+.mynav li
+{
+padding:5px;	
+}
+.mynav li a
+{
+	color:black;
+}
+.mynav li:hover
+{
+	background-color:skyblue;
+	color:black;
+}
